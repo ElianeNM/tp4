@@ -1,7 +1,4 @@
-package TP_04;
-
-
-public class Array {
+lss Array {
 private int arrayA[] = new int[10];
 private int arrayB[] = new int[10]; 
 
@@ -56,7 +53,7 @@ public void CalculaDivisaoArrays() throws ExcecaoDivisaoResultadoZero{
 
 
 }
-package TP_04;
+ 
 
 
 public class ExcecaoDivisaoResultadoZero extends Exception {
